@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](A.gif)
+<!-- ![](A.gif) -->
+<div align = "center">
+<a href="">
+  <img  src="https://github-readme-stats.vercel.app/api?username=Rutuj-Runwal&show_icons=true&theme=tokyonight" />
+</a>
+</div>
