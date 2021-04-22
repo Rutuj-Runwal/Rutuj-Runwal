@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- ![](A.gif) -->
+
+<img src="https://github.com/Rutuj-Runwal/Rutuj-Runwal/raw/main/assets/LiveMotionBg.svg" width="100%" height="300%">
+
 <div align = "center">
 <a href="">
   <img  src="https://github-readme-stats.vercel.app/api?username=Rutuj-Runwal&show_icons=true&theme=tokyonight" />
