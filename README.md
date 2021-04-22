@@ -23,3 +23,6 @@ Here are some ideas to get you started:
   <img  src="https://github-readme-stats.vercel.app/api?username=Rutuj-Runwal&show_icons=true&theme=tokyonight" />
 </a>
 </div>
+
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rutuj-Runwal&show_icons=true&locale=en&layout=compact" alt="Rutuj-Runwal" /></p>
+-->
