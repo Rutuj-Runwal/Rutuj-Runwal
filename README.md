@@ -49,15 +49,20 @@ Here are some ideas to get you started:
   <a href="">
     <img  src="https://github-readme-stats.vercel.app/api?username=Rutuj-Runwal&count_private=true&show_icons=true&theme=tokyonight" />
   </a>
+<!--   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rutuj-Runwal&show_icons=true&locale=en" alt="Rutuj-Runwal" /></p> -->
   </div>
   <div align="center">
-<!--   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rutuj-Runwal&show_icons=true&locale=en&layout=compact" alt="Rutuj-Runwal" /></p> -->
   </div>
-<!-- https://activity-graph.herokuapp.com/graph?username=Rutuj-Runwal&theme=xcode -->
+<img src="https://activity-graph.herokuapp.com/graph?username=Rutuj-Runwal&theme=xcode"/>
 <br>
 <br>
 <br>
 
+## ❤ Visitors Count
+<p align = "center">
+  <img src="https://profile-counter.glitch.me/Rutuj-Runwal/count.svg" />
+</p>
+                                                                   
 ## 🔥 My contribution streak:
 <p align="center">
   <a href="#">
