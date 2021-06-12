@@ -31,14 +31,14 @@ Here are some ideas to get you started:
 
 ### Languages and Tools :computer:
 
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/shriya030)](https://github.com/shriya030) [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/shriya030)](https://github.com/shriya030) [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/shriya030)](https://github.com/shriya030) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/shriya030)](https://github.com/shriya030)
+[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal)
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/shriya030)](https://github.com/shriya030) [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&link=https://github.com/shriya030)](https://github.com/shriya030)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal)
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/shriya030)](https://github.com/shriya030) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/shriya030)](https://github.com/shriya030) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/shriya030)](https://github.com/shriya030) [![ReactJS](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/shriya030)](https://github.com/shriya030) [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&link=https://github.com/shriya030)](https://github.com/shriya030)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) [![ReactJS](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal)
 
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/shriya030)](https://github.com/shriya030)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/shriya030)](https://github.com/shriya030)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal)
 
 ##  :speech_balloon: Find Me on 
 
@@ -69,3 +69,4 @@ Here are some ideas to get you started:
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rutuj-Runwal&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
 </p>
+ 
