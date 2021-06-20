@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 - 📚 I'm a 2nd year CSE student 
 - 🔭 I’m currently working on ReactJS,Python,CyberSecurity and more
 - 🌱 I’m currently learning about Open Source
-<!-- - 🤔 I’m looking for help with NodeJS and MongoDB -->
 - 👯 I’m looking to collaborate on Open source Projects
 - 😄 Pronouns: He/Him
+<!-- - 🤔 I’m looking for help with NodeJS and MongoDB -->
 <br>
 
 ### Languages and Tools :computer:
