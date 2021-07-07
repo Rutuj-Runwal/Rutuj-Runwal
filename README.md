@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 <img src="https://github.com/Rutuj-Runwal/Rutuj-Runwal/raw/main/assets/LiveMotionBg.svg" width="200%" height="500%">
 <h1 align="center">Hi 👋, I'm Rutuj</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
+<h4 align="center"> https://rutuj-runwal.github.io/MySite/ </h4>
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=Rutuj-Runwal.Rutuj-Runwal) -->
 
-- 📚 I'm a 2nd year CSE student 
+- 📚 I'm a 3rd year CSE student 
 - 🔭 I’m currently working on ReactJS,Python,CyberSecurity and more
 - 🌱 I’m currently learning about Open Source
 - 👯 I’m looking to collaborate on Open source Projects
