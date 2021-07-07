@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 <p align = "center">
   <img src="https://profile-counter.glitch.me/Rutuj-Runwal/count.svg" />
 </p>
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg) -->
                                                                    
 ## 🔥 My contribution streak:
 <p align="center">
