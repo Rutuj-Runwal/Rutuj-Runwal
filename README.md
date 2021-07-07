@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/Rutuj-Runwal/Rutuj-Runwal/raw/main/assets/LiveMotionBg.svg" width="200%" height="500%">
 <h1 align="center">Hi 👋, I'm Rutuj</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
-<h4 align="center"> https://rutuj-runwal.github.io/MySite/ </h4>
+<h3 align="center"> https://rutuj-runwal.github.io/MySite/ </h3>
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=Rutuj-Runwal.Rutuj-Runwal) -->
 
 - 📚 I'm a 3rd year CSE student 
