@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   </div>
   <div align="center">
   </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=Rutuj-Runwal&theme=xcode"/>
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=Rutuj-Runwal&theme=xcode"/> -->
 <br>
 <br>
 <br>
