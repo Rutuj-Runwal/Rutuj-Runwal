@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 ##  :speech_balloon: Find Me on 
 
-[![Linkedin Badge](https://img.shields.io/badge/-@Rutuj--Runwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://bit.ly/let_us_connect)](https://www.linkedin.com/in/rutuj-runwal/) 
+[![Linkedin Badge](https://img.shields.io/badge/-@Rutuj--Runwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://bit.ly/let_us_connect)](https://bit.ly/let_us_connect) 
 <!-- [![Instagram Badge](https://img.shields.io/badge/-@rutuj._.runwal-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/rutuj._.runwal/)](https://www.instagram.com/rutuj._.runwal/) -->
 
 ## :trophy: My Github Stats:
