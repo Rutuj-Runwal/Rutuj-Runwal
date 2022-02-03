@@ -32,13 +32,14 @@ Here are some ideas to get you started:
 
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal)
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal)
-
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) [![ReactJS](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) 
+[![ReactJS](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal)
 
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal)
-
+<br><br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRutuj-Runwal&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
 ##  :speech_balloon: Find Me on 
 
 [![Linkedin Badge](https://img.shields.io/badge/-@Rutuj--Runwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://bit.ly/let_us_connect)](https://bit.ly/let_us_connect) 
@@ -70,4 +71,3 @@ Here are some ideas to get you started:
 <!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rutuj-Runwal&theme=dark&hide_border=true&background=0D1117&stroke=0000"/> -->
   </a>
 </p>
- 
