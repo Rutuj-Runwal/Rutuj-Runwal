@@ -20,12 +20,11 @@ Here are some ideas to get you started:
 <h3 align="center"> https://rutuj-runwal.github.io/MySite/ </h3>
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=Rutuj-Runwal.Rutuj-Runwal) -->
 
-- 📚 I'm a 3rd year CSE student 
-- 🔭 I’m currently working on ReactJS,Python,CyberSecurity and more
-- 🌱 I’m currently learning about DeepLearning and Manifest V3
+- 📚 I'm a Final year CSE student 
+- 🔭 I’m currently working on [RR Adblocker](https://github.com/Rutuj-Runwal/RR-Adblocker)
+- 🌱 I’m currently learning about AI, Deeplearning and Cybersecurity
 - 👯 I’m looking to collaborate on Open source Projects
 - 😄 Pronouns: He/Him
-<!-- - 🤔 I’m looking for help with NodeJS and MongoDB -->
 <br>
 
 ### Languages and Tools :computer:
@@ -58,16 +57,18 @@ Here are some ideas to get you started:
 <br>
 <br>
 <br>
-
+<!-- 
 ## ❤ Visitors Count
 <p align = "center">
   <img src="https://profile-counter.glitch.me/Rutuj-Runwal/count.svg" />
 </p>
 <!-- ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg) -->
                                                                    
-<!-- ## 🔥 My contribution streak: -->
+<!-- ## 🔥 My contribution streak:-- >
 <p align="center">
   <a href="#">
 <!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rutuj-Runwal&theme=dark&hide_border=true&background=0D1117&stroke=0000"/> -->
   </a>
 </p>
+
+[![@rutujrunwal's Holopin board](https://holopin.io/api/user/board?user=rutujrunwal)](https://holopin.io/@rutujrunwal)
