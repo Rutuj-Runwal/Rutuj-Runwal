@@ -44,10 +44,10 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-@Rutuj--Runwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://bit.ly/let_us_connect)](https://bit.ly/let_us_connect) 
 <!-- [![Instagram Badge](https://img.shields.io/badge/-@rutuj._.runwal-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/rutuj._.runwal/)](https://www.instagram.com/rutuj._.runwal/) -->
 
-## :trophy: My Github Stats:
+<!-- ## :trophy: My Github Stats: -->
  <div align = "center">
   <a href="">
-    <img  src="https://github-readme-stats.vercel.app/api?username=Rutuj-Runwal&count_private=true&show_icons=true&theme=tokyonight" />
+<!--     <img  src="https://github-readme-stats.vercel.app/api?username=Rutuj-Runwal&count_private=true&show_icons=true&theme=tokyonight" /> -->
   </a>
 <!--   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rutuj-Runwal&show_icons=true&locale=en" alt="Rutuj-Runwal" /></p> -->
   </div>
