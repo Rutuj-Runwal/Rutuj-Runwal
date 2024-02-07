@@ -12,36 +12,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ![](A.gif) -->
 
-<img src="https://github.com/Rutuj-Runwal/Rutuj-Runwal/raw/main/assets/LiveMotionBg.svg" width="200%" height="500%">
-<h1 align="center">Hi 👋, I'm Rutuj</h1>
+<img src="https://raw.githubusercontent.com/Rutuj-Runwal/Rutuj-Runwal/main/assets/starfield.gif" width="100%" height="250" />
+<h1 align="center">Hi <span><img src="https://github.com/Rutuj-Runwal/Rutuj-Runwal/raw/main/assets/hi.gif" width="34"/></span>, I'm Rutuj</h1>
 <h3 align="center">A passionate tech enthusiast from India</h3>
-<h3 align="center"> https://rutuj-runwal.github.io/MySite/ </h3>
-<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=Rutuj-Runwal.Rutuj-Runwal) -->
+<!-- <h3 align="center"> https://rutuj-runwal.github.io/MySite/ </h3> -->
 
-### 🔭 I’m currently working on [Xylent Antivirus](https://github.com/Rutuj-Runwal/Xylent) and [RR Adblocker](https://github.com/Rutuj-Runwal/RR-Adblocker) and 
+- 🔭 I’m currently working on [Xylent](https://github.com/Rutuj-Runwal/Xylent) and [RR Adblocker](https://github.com/Rutuj-Runwal/RR-Adblocker) and 
 - 🌱 I’m currently learning about AI, Deeplearning and Cybersecurity
 - ⚡ Building smarter solutions for solving security and privacy problems
-- 👯 I’m looking to collaborate on Open source Projects 
+- 👯 I’m looking to collaborate on web technologies as well as machine learning and cybersecurity Projects
 - 😄 Pronouns: He/Him
 <br>
 
 ### Languages and Tools :computer:
+<a href="/"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"></a>
+<a href="/"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"></a>
+<a href="/"><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"></a>
+<a href="/"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"></a>
+<a href="/"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"></a>
+<a href="/"><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"></a>
 
-[![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c++&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal)
+<br />
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) 
-[![ReactJS](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal) 
-
-
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Rutuj-Runwal)](https://github.com/Rutuj-Runwal)
-<br><br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRutuj-Runwal&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br>
 ##  :speech_balloon: Find Me on 
-
-[![Linkedin Badge](https://img.shields.io/badge/-@Rutuj--Runwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://bit.ly/let_us_connect)](https://bit.ly/let_us_connect) 
+<a href="https://bit.ly/let_us_connect"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"/></a>
+<a href="https://twitter.com/rutuj__runwal"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100"/></a>
 <!-- [![Instagram Badge](https://img.shields.io/badge/-@rutuj._.runwal-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/rutuj._.runwal/)](https://www.instagram.com/rutuj._.runwal/) -->
 
 <!-- ## :trophy: My Github Stats: -->
