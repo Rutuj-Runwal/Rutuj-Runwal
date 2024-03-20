@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/Rutuj-Runwal/Rutuj-Runwal/main/assets/starfield.gif" width="100%" height="250" />
 <h1 align="center">Hi <span><img src="https://github.com/Rutuj-Runwal/Rutuj-Runwal/raw/main/assets/hi.gif" width="34"/></span>, I'm Rutuj</h1>
-<h3 align="center">A passionate tech enthusiast from India</h3>
+<h3 align="center">Building user centric experiences for the web and beyond</h3>
 <!-- <h3 align="center"> https://rutuj-runwal.github.io/MySite/ </h3> -->
 
-- 🔭 I’m currently working on [Xylent](https://github.com/Rutuj-Runwal/Xylent) and [RR Adblocker](https://github.com/Rutuj-Runwal/RR-Adblocker) and 
+- 🔭 I’m currently working on [Quickvault](https://github.com/Rutuj-Runwal/Quick-Vault), [Xylent](https://github.com/Rutuj-Runwal/Xylent) and sometimes [RR Adblocker](https://github.com/Rutuj-Runwal/RR-Adblocker)
 - 🌱 I’m currently learning about AI, Deeplearning and Cybersecurity
 - ⚡ Building smarter solutions for solving security and privacy problems
-- 👯 I’m looking to collaborate on web technologies as well as machine learning and cybersecurity Projects
+- 👯 I’m looking to collaborate on web technologies leveraging deeplearning learning :)
 - 😄 Pronouns: He/Him
 <br>
 
