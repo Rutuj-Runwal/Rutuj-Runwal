@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <h3 align="center">Building user centric experiences for the web and beyond</h3>
 <!-- <h3 align="center"> https://rutuj-runwal.github.io/MySite/ </h3> -->
 
-- 🔭 I’m currently working on [Quickvault](https://github.com/Rutuj-Runwal/Quick-Vault), [Xylent](https://github.com/Rutuj-Runwal/Xylent) and sometimes [RR Adblocker](https://github.com/Rutuj-Runwal/RR-Adblocker)
-- 🌱 I’m currently learning about AI, Deeplearning and Cybersecurity
+- 🔭 I’m currently working on [Quickvault](https://github.com/Rutuj-Runwal/Quick-Vault)
+- 🌱 I’m currently learning about Vector Embeddings, NextJS Server Side Rendering and Content Delivery Networks(CDN)
 - ⚡ Building smarter solutions for solving security and privacy problems
 - 👯 I’m looking to collaborate on web technologies leveraging deeplearning learning :)
 - 😄 Pronouns: He/Him
